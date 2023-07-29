@@ -8,7 +8,6 @@ public class Solution3 {
         System.out.println(elementosRepetidos(entrada1));
         System.out.println(elementosRepetidos(entrada2));
     }
-
     public static boolean elementosRepetidos(double[] input) {
 
         for (int i = 0; i < input.length; i++) {
